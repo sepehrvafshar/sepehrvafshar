@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sep Afshar (Sepehr Vaez Afshar)
 
-<!--
-**sepehrvafshar/sepehrvafshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in Informatics (HCI) at the University of Illinois Urbana-Champaign. My background is in architecture, landscape architecture, and historic preservation, and I now design and study XR, serious games, and location-based experiences for cultural heritage.
 
-Here are some ideas to get you started:
+### Research
+- XR/AR adoption in cultural heritage museums
+- Serious games and gameful learning for heritage
+- Digital heritage, cultural informatics, and accessibility in immersive environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected public work
+- [beneath-the-stone](https://github.com/sepehrvafshar/beneath-the-stone): a single-file narrative game about ethical heritage representation at Mammoth Cave (SIGraDi 2026)
+- [sericum-via-1](https://github.com/sepehrvafshar/sericum-via-1): a Twine serious game about the Safavid caravanserais of Iran's Silk Roads (ASCAAD 2021)
+
+### Recognition
+- Best Paper Award, ASCAAD 2026, for "Situated Cartographies" (with Mahyar Hadighi)
+
+### Links
+[Website](https://sepafshar.com) · [Google Scholar](https://scholar.google.com/citations?user=qQFXEvcAAAAJ) · [ORCID](https://orcid.org/0000-0001-8380-2348) · [Academia](https://illinois.academia.edu/SepehrVaezAfshar)
