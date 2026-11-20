@@ -7,7 +7,7 @@ PhD student in Informatics (HCI) at the University of Illinois Urbana-Champaign.
 - Serious games and gameful learning for heritage
 - Digital heritage, cultural informatics, and accessibility in immersive environments
 
-### Selected public work
+### Selected public projects
 - [beneath-the-stone](https://github.com/sepehrvafshar/beneath-the-stone): a single-file narrative game about ethical heritage representation at Mammoth Cave (SIGraDi 2026)
 - [sericum-via-1](https://github.com/sepehrvafshar/sericum-via-1): a Twine serious game about the Safavid caravanserais of Iran's Silk Roads (ASCAAD 2021)
 
